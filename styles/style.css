@@ -39,7 +39,7 @@ nav {
     background-color: #4E47FF;
     border: none;
     border-radius: 10px;
-    padding: 12px 36px;
+    padding: 15px 36px;
     cursor: pointer;
     transition: all 0.3s ease;
 }
@@ -58,6 +58,30 @@ nav {
 .banner h1 {
     color: #252432;
     font-size: 65px;
+    font-weight: bold;   
+}
+
+
+/* action section styles */
+.action-section {
+    padding: 116px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-info {
+    margin-right: 350px;
+}
+.action-info h3 {
+    font-size: 42px;
     font-weight: bold;
-    
+}
+.action-info p {
+    font-size: 24px;
+    color: #252432;
+    opacity: 50%;
+    margin-bottom: 30px;
+}
+.action-image img {
+    border-radius: 48px;
 }

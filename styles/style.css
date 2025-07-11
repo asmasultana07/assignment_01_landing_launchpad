@@ -23,6 +23,11 @@ body {
   font-weight: 900;
   font-style: normal;
 }
+.inte-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
 
 /* header style */
 header {
@@ -171,6 +176,8 @@ nav {
     font-weight: 600;
 }
 .get-touch-form input,textarea {
+    color: black;
+    opacity: 50%;
     margin-bottom: 19px;
     padding: 20px 32px;
     font-size: 20px;
@@ -249,7 +256,9 @@ footer {
     background-color: white;
     border-radius: 14px;
 }
-
+.f-star img{
+    margin-right: 5px;
+}
 .f-title h3 {
     font-size: 24px;
     font-weight: bold;

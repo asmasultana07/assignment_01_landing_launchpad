@@ -236,12 +236,18 @@ footer {
     color: #252432;
     margin-bottom: 50px;
 }
+.feedback-cards {
+    display: flex;
+    gap: 20px;
 
+}
 .feedback-card {
     display: flex;
     flex-direction: column;
     gap: 24px;
     padding: 24px;
+    background-color: white;
+    border-radius: 14px;
 }
 
 .f-title h3 {
@@ -257,4 +263,21 @@ footer {
     margin-bottom: 8px;
 }
 
-.
+.f-user{
+    display: flex;
+    gap: 10px;
+}
+.f-user img {
+   border-radius: 50%;
+}
+.f-user-name {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.f-user-name h4 {
+    color: #757575;
+}
+.f-user-name p {
+    color: #b3b3b3;
+}

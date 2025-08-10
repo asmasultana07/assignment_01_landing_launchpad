@@ -14,8 +14,11 @@
 ## Screenshots
 
 #### The Navbar and Banner will have an Background Image
-![Home Page](OCRS-screenshot/1.PNG)
-#### The Navbar and Banner will have an Background Image
+![Banner](ui/banner.png)
+#### The Action will have Left Side: -- Title
+-- Subtitle
+-- Launch Live Preview Button
+Right Side: -- Image
 ![ Page](https://camo.githubusercontent.com/fd3eed66a603fd979a59514c003ad2e87642702acb8d4cb3c4c1bb27d846918d/68747470733a2f2f7265736f75726365732e6e696365706167652e636f6d2f3937372f3131383937372f686f7665722d6566666563742d6475726174696f6e2e676966)
 
 
